@@ -1,2 +1,2 @@
-local a = "discord.gg/discord"
+local a = "discord.gg/abc"
 print(a)
